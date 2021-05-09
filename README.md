@@ -22,7 +22,7 @@ The bottom half of the page is where users can filter through the hundreds of UF
 
 I can drill-down my analysis further by adding another filter. I chose the shape field and entered "light." The number of results decreased from 7 to 2.
 
-![challenge_filter_example](https://github.com/dwwatson1/UFOs/blob/main/challenge_filter_example.PNG)
+![challenge_filter_example_2](https://github.com/dwwatson1/UFOs/blob/main/challenge_filter_example_2.PNG)
 
 ## Summary of the Analysis
 
