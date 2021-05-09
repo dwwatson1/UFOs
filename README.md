@@ -1,7 +1,7 @@
 # UFO Analysis
 
 ## Overview of the Analysis
-The purpose of this analysis was to create a dynamic content on webpage with UFO sighting information using Javascript and a CSS framework called Bootstrap. 
+The purpose of this analysis was to create dynamic content on webpage with UFO sighting information using Javascript and a CSS framework called Bootstrap. 
 
 ## Results of the Analysis
 
