@@ -28,4 +28,8 @@ I can drill-down my analysis further by adding another filter. I chose the shape
 
 ### Drawbacks
 
+While this webpage is clean, easy to navigate, and perform UFO sighting filters, it's limited by not having that much data. All sighting data is from only 2010, which is not only old data, but also limiting being from 2010. In addition, every single data entry is a UFO sighting within the United States. This makes the 'Enter Country' filter essentially useless. 
+
 ### Recommendations for Further Analysis
+
+This webpage would benefit from an updated and larger dataset that includes UFO sightings from all over the world. It would also benefit from a list dropdown so the user wouldn't have to guess which countries or shape to filter by. The data could also benefit from cleaning up the duration data. Some entries are listed in seconds, some in minutes, and others with different formats: "approx. 1 sec." for example. To add this as a filtering section, we would need to convert the entries to a uniform format. I would suggest having all of them in seconds as some UFO sightings were quite short.
